@@ -1,9 +1,3 @@
-Ótimo! Vou te ajudar a criar um `README.md` bonito e informativo para o seu projeto. Como você já colocou a `node_modules` e o `.env` no `.gitignore`, isso garante que esses arquivos sensíveis e pesados não serão enviados para o repositório. Vamos criar um `README.md` que explique claramente como configurar, testar e usar o sistema.
-
-Aqui está um exemplo de `README.md`:
-
----
-
 # Sistema de Consulta e Armazenamento de Endereços
 
 Este é um sistema web que permite consultar endereços por CEP usando a API ViaCEP, armazenar os endereços consultados em um banco de dados MySQL e listar os endereços salvos com opções de ordenação.
